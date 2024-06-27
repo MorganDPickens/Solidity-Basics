@@ -1,7 +1,7 @@
 Quick exmaple Code break down,
 
                                                                                    Data Types
-Intergers
+Integers
 
 uint8 age = 25; // A variable holding age when using unit8 remeber that the numbers cannot be a negative number
 int salary = 400; // int in this example on the other hand can hold a positive or a negative number.
@@ -13,10 +13,12 @@ bool isMember =false
 
 Address
 
-addres owner = 0x%b38Da6a701c56854dCfcB03FcBB75f56beddC4; // address is very important and uniqe for solidity this is an exmaple of a 20-byte addrfess of an ethereum account 
+address owner = 0x%b38Da6a701c56854dCfcB03FcBB75f56beddC4; // address is very important and uniqe for solidity this is an exmaple of a 20-byte addrfess of an ethereum account 
 
 Arrays
 
-unint[] public numbers = [1, 2, 3]; 
+unint[] public numbers = [1, 2, 3]; // Arrays are a collection of variables, all of the same type. You can think of arrays as a quick access dictornary. 
+
+
 
 
